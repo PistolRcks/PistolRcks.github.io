@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Peter \"PistolRcks\" Arnold'
+landing-title: 'Peter "PistolRcks" Arnold'
 description: null
 image: null
 author: null
