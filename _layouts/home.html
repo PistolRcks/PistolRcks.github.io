@@ -30,22 +30,18 @@
     <!-- Main -->
     <div id="main">
 
-        <!-- One -->
-        {% include tiles.html %}
-
-        <!-- Two -->
-        <section id="two">
+        <!-- Short "About Me" section -->
+        <section id="short_aboutme">
             <div class="inner">
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h2>About Me</h2>
                 </header>
                 <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
             </div>
         </section>
 
+        <!-- Projects -->
+        {% include tiles.html %}
     </div>
 
     {% include footer.html %}
