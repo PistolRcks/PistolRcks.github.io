@@ -4,9 +4,11 @@
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
 <section id="projects" class="tiles">
-  <header class="major"><h2>Projects</h2></header>
-  {% for tile in tiles limit:site.tiles-count %}
-  <article>
+	<div class="inner">
+		<header class="major"><h2>Projects</h2></header>
+			{% for tile in tiles limit:site.tiles-count %}
+	</div>
+	<article>
     <span class="image">
       <img src="{{ tile.image }}" alt="{{ tile.title }}" />
     </span>
