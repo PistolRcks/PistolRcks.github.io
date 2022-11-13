@@ -10,6 +10,14 @@ image: /assets/images/posts/flfa_screencap.png
 *A screenshot of the project in which one of the fighters is performing a Dragon Punch*
 
 # Behind the Project
+## Statistics
+| --- | --- |
+| **Code Language** | GDScript (Godot Engine 3.4.2) |
+| **Est. Time Spent** | 25 hrs |
+| **Timeframe** | Apr. 27, 2022 -- May 4, 2022 |
+| **Lines of Code** | 852 |
+
+## About
 I made this project as a final project for my Formal Languages and Finite Automata class. The aspect of that class I wanted to focus on in this project was RegEx, which forms the backbone of the motion input system.
 
 # Where to Find the Project
