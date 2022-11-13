@@ -7,6 +7,8 @@ image: /assets/images/posts/flfa_screencap.png
 
 ![Screenshot of flfa-project](/assets/images/posts/flfa_screencap.png)
 
+*A screenshot of the project in which one of the fighters is performing a Dragon Punch*
+
 # Behind the Project
 I made this project as a final project for my Formal Languages and Finite Automata class. The aspect of that class I wanted to focus on in this project was RegEx, which forms the backbone of the motion input system.
 
