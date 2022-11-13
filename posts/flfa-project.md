@@ -11,11 +11,24 @@ image: /assets/images/posts/flfa_screencap.png
 
 # Behind the Project
 ## Statistics
-| --- | --- |
-| **Code Language** | GDScript (Godot Engine 3.4.2) |
-| **Est. Time Spent** | 25 hrs |
-| **Timeframe** | Apr. 27, 2022 -- May 4, 2022 |
-| **Lines of Code** | 852 |
+<table>
+	<tr>
+		<td><b>Code Language</b></td>
+		<td>GDScript (Godot Engine 3.4.2)</td>
+	</tr>
+	<tr>
+		<td><b>Est. Time Spent</b></td>
+		<td>25 hrs</td>
+	</tr>
+	<tr>
+		<td><b>Timeframe</b></td>
+		<td>Apr. 27, 2022 -- May 4, 2022</td>
+	</tr>
+	<tr>
+		<td><b>Lines of Code</b></td>
+		<td>852</td>
+	</tr>
+</table>
 
 ## About
 I made this project as a final project for my Formal Languages and Finite Automata class. The aspect of that class I wanted to focus on in this project was RegEx, which forms the backbone of the motion input system.
